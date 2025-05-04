@@ -1,6 +1,14 @@
 import numpy as np
 import pandas as pd
 
-data = pd.read_csv('data/columns.tsv')
+# columns are separated by tabs not commas
+data = pd.read_csv('data/ab_ag.tsv', sep='\t')
 
-print(data)
+# print first few lines 
+print(data.head())
+
+# Inspect the dataser ab_ag.tsv
+df = pd.read_csv("data/ab_ag.tsv", sep="\t")
+print(df.shape)
+print(df.columns)
+print(df.head())
