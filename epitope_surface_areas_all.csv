@@ -1,4 +1,4 @@
-pdb_id,H_chain,L_chain,antigen_chain,epitope_area,folder
+pdb_id,H_chain,L_chain,antigen_chain,epitope_area,checkpoint
 5tru,H,L,C,1444.2833251953125,ctla4
 7su0,I,M,D,1668.169677734375,ctla4
 7su1,H,L,C,1172.1873779296875,ctla4
