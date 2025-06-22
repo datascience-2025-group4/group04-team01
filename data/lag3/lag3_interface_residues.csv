@@ -1,6 +1,5 @@
 pdb_id,chain_id,partner_type,residue_name,residue_number,residue_id,chain_pair,interface_distance,residue_frequency
 7tzh,C,antibody,LYS,106,106,CC-D,5.0,3
-7tzh,C,antibody,HOH,327,327,CC-D,5.0,4
 7tzh,C,antibody,GLY,59,59,CC-D,5.0,5
 7tzh,C,antibody,TYR,232,232,CC-D,5.0,3
 7tzh,C,antibody,PHE,111,111,CC-D,5.0,1
@@ -9,7 +8,6 @@ pdb_id,chain_id,partner_type,residue_name,residue_number,residue_id,chain_pair,i
 7tzh,C,antibody,GLY,167,167,CC-D,5.0,5
 7tzh,C,antibody,GLY,105,105,CC-D,5.0,5
 7tzh,C,antibody,GLN,166,166,CC-D,5.0,1
-7tzh,C,antibody,HOH,308,308,CC-D,5.0,4
 7tzh,C,antibody,GLY,231,231,CC-D,5.0,5
 7tzh,C,antibody,SER,139,139,CC-D,5.0,1
 7tzh,C,antibody,ILE,141,141,CC-D,5.0,1
@@ -17,7 +15,6 @@ pdb_id,chain_id,partner_type,residue_name,residue_number,residue_id,chain_pair,i
 7tzh,C,antibody,LYS,107,107,CC-D,5.0,3
 7tzh,C,antibody,LYS,67,67,CC-D,5.0,3
 7tzh,C,antibody,PRO,234,234,CC-D,5.0,1
-7tzh,C,antibody,HOH,320,320,CC-D,5.0,4
 7tzh,C,antibody,ASP,101,101,CC-D,5.0,4
 7tzh,C,antibody,THR,58,58,CC-D,5.0,4
 7tzh,C,antibody,THR,60,60,CC-D,5.0,4
@@ -25,12 +22,10 @@ pdb_id,chain_id,partner_type,residue_name,residue_number,residue_id,chain_pair,i
 7tzh,C,antibody,TYR,233,233,CC-D,5.0,3
 7tzh,C,antibody,THR,230,230,CC-D,5.0,4
 7tzh,C,antibody,ASP,140,140,CC-D,5.0,4
-7tzh,C,antibody,HOH,303,303,CC-D,5.0,4
 7tzh,C,antibody,ASP,109,109,CC-D,5.0,4
 7tzh,C,antibody,ALA,35,35,CC-D,5.0,1
 7tzh,C,antibody,THR,208,208,CC-D,5.0,4
 7tzh,C,antibody,ASP,103,103,CC-D,5.0,4
-7tzh,D,antigen,HOH,607,607,CC-D,5.0,2
 7tzh,D,antigen,PRO,388,388,CC-D,5.0,2
 7tzh,D,antigen,SER,394,394,CC-D,5.0,4
 7tzh,D,antigen,VAL,381,381,CC-D,5.0,1
@@ -46,7 +41,6 @@ pdb_id,chain_id,partner_type,residue_name,residue_number,residue_id,chain_pair,i
 7tzh,D,antigen,SER,392,392,CC-D,5.0,4
 7tzh,D,antigen,SER,389,389,CC-D,5.0,4
 7tzh,D,antigen,ARG,391,391,CC-D,5.0,2
-7tzh,D,antigen,HOH,601,601,CC-D,5.0,2
 7tzh,D,antigen,ARG,379,379,CC-D,5.0,2
 7tzh,D,antigen,GLN,401,401,CC-D,5.0,4
 7tzh,D,antigen,GLN,413,413,CC-D,5.0,4
