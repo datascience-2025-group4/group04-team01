@@ -1,0 +1,25 @@
+Antibody,Study ID,Checkpoint,Trial Phase,Participants,OS,PFS,ORR,Link,OS_norm,PFS_norm,ORR_norm,Composite_score
+ATEZOLIZUMAB,NCT02928406,PD-L1,3,1004,8.57,2.2,-,"https://clinicaltrials.gov/study/NCT02928406?intr=Atezolizumab&aggFilters=phase:3%204,results:with&rank=3&tab=results#outcome-measures",0.1364089776,0.02973977695,0,0.1662687173
+ATEZOLIZUMAB,NCT03811002,PD-L1,3,274,31.1,12.1,60.2,,0.6982543641,0.3977695167,0.781671159,1.5267743
+DURVALUMAB,NCT02125461,PD-L1,3,476,34.7,28.3,30,"https://clinicaltrials.gov/study/NCT02125461?intr=DURVALUMAB&aggFilters=phase:3%204,results:with&rank=7&tab=results#outcome-measures",0.7880299252,1,0.3746630728,1.930937648
+DURVALUMAB,NCT04449861,PD-L1,3,165,14.8,6.3,76.4,,0.2917705736,0.1821561338,1,1.090758868
+AVELUMAB,NCT02603432,PD-L1,3,350,21.4,5.5,12.3,"https://clinicaltrials.gov/study/NCT02603432?cond=AVELUMAB&aggFilters=phase:3%204,status:com&rank=1",0.4563591022,0.1524163569,0.1361185984,0.6319947152
+AVELUMAB,NCT02684006,PD-L1,3,270,43.2,13.8,-,"https://clinicaltrials.gov/study/NCT02684006?cond=AVELUMAB&aggFilters=phase:3%204,status:com&rank=2&tab=results",1,0.4609665428,0,1.184828911
+AVELUMAB,NCT02580058,PD-L1,3,188,11.8,1.9,3.7,"https://clinicaltrials.gov/study/NCT02580058?cond=AVELUMAB&aggFilters=phase:3%204,status:com&rank=3&tab=results",0.216957606,0.01858736059,0.02021563342,0.1940764123
+AVELUMAB,NCT02576574,PD-L1,3,151,20.1,8.4,-,https://clinicaltrials.gov/study/NCT02576574?term=NCT02576574&rank=1,0.4239401496,0.2602230483,0,0.4975790289
+AVELUMAB,NCT02625623,PD-L1,3,185,4.6,1.4,2.2,"https://clinicaltrials.gov/study/NCT02625623?cond=AVELUMAB&aggFilters=phase:3%204,status:com&rank=5&tab=results",0.03740648379,0,0,0.02829816639
+AVELUMAB,NCT02395172,PD-L1,3,264,11.4,3.4,-,"https://clinicaltrials.gov/study/NCT02395172?cond=AVELUMAB&aggFilters=phase:3%204,status:com&rank=6&tab=results",0.2069825436,0.07434944238,0,0.2272455248
+AVELUMAB,NCT02625610,PD-L1,3,249,10.4,3.2,13.3,"https://clinicaltrials.gov/study/NCT02625610?cond=AVELUMAB&aggFilters=phase:3%204,status:com&rank=7&tab=results",0.1820448878,0.06691449814,0.1495956873,0.3185703853
+CEMIPLIMAB,NCT03257267,PD-1,3,304,11.7,2.8,17.1,"https://clinicaltrials.gov/study/NCT03257267?cond=CEMIPLIMAB&aggFilters=phase:3%204,status:com&rank=1&tab=results",0.2144638404,0.05204460967,0.2008086253,0.3869852451
+DOSTARLIMAB,NCT04409002,PD-1,2,15,3.1,-,-,"https://clinicaltrials.gov/study/NCT04409002?cond=DOSTARLIMAB&aggFilters=phase:2%201,status:com&rank=1&tab=results",0,0,0,0
+DOSTARLIMAB,NCT03308942,PD-1,2,34,-,-,2.9,"https://clinicaltrials.gov/study/NCT03250832?cond=DOSTARLIMAB&aggFilters=phase:2%201,status:com&rank=4&tab=results",0,0,0.009433962264,0.004855559888
+NIVOLUMAB,NCT03195491,PD-1,3,400,14.65,3.61,14,"https://clinicaltrials.gov/study/NCT03195491?intr=Nivolumab&aggFilters=phase:3%204,results:with&rank=5",0.2880299252,0.08215613383,0.1590296496,0.4592082979
+NIVOLUMAB,NCT03635983,PD-1,3,392,28.88,4.99,36,"https://clinicaltrials.gov/study/NCT03635983?intr=Nivolumab&aggFilters=phase:3%204,results:with&rank=8&tab=results#outcome-measures",0.6428927681,0.1334572491,0.4555256065,1.06532298
+PEMBROLIZUMAB,NCT03783078,PD-1,3,55,24.3,9.3,49.1,"https://clinicaltrials.gov/study/NCT03783078?intr=PEMBROLIZUMAB&aggFilters=phase:3%204,results:with&rank=1&tab=results#outcome-measures",0.5286783042,0.2936802974,0.6320754717,0.847541411
+PEMBROLIZUMAB,NCT03675737,PD-1,3,790,12.9,6.9,51.3,"https://clinicaltrials.gov/study/NCT03675737?intr=PEMBROLIZUMAB&aggFilters=phase:3%204,results:with,status:com&rank=23&tab=results#outcome-measures",0.2443890274,0.2044609665,0.6617250674,1.072880842
+TISLELIZUMAB,NCT03358875,PD-1,3,227,19.3,6.5,37.4,"https://clinicaltrials.gov/study/NCT03358875?intr=Tislelizumab&aggFilters=phase:3%204,results:with,status:com&rank=1&tab=results#outcome-measures",0.4039900249,0.1895910781,0.474393531,0.8394048684
+TISLELIZUMAB,NCT0366320,PD-1,3,223,21.4,9.7,57.8,"https://clinicaltrials.gov/study/NCT03663205?intr=Tislelizumab&aggFilters=phase:3%204,results:with,status:com&rank=4&tab=results#outcome-measures",0.4563591022,0.3085501859,0.7493261456,1.186276276
+IPILIMUMAB,NCT02545075,CTLA-4,3,122,15.1,2.6,8.2,"https://clinicaltrials.gov/study/NCT02545075?intr=IPILIMUMAB&aggFilters=phase:3%204,results:with,status:com&rank=2&tab=results#outcome-measures",0.2992518703,0.04460966543,0.08086253369,0.2958776679
+IPILIMUMAB,NCT00861614,CTLA-4,3,399,11.04,4.01,46.5,"https://clinicaltrials.gov/study/NCT00861614?intr=IPILIMUMAB&aggFilters=phase:3%204,results:with,status:com&rank=13&tab=results#outcome-measures",0.1980049875,0.0970260223,0.5970350404,0.7737364597
+TERMELIMUMAB,NCT03084471,CTLA-4,3,867,7,,,"https://clinicaltrials.gov/study/NCT03084471?cond=TREMELIMUMAB&aggFilters=phase:4%203,status:com&rank=1",0.09725685786,-0.05204460967,-0.02964959569,0.01524372045
+TERMELIMUMAB,NCT02369874,CTLA-4,3,247,4.8,2,18.2,"https://clinicaltrials.gov/study/NCT02369874?cond=TREMELIMUMAB&aggFilters=phase:4%203,status:com&rank=2&tab=results",0.04239401496,0.02230483271,0.2156334232,0.223747359
