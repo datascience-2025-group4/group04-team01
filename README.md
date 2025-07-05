@@ -33,7 +33,9 @@ Three datasets were provided as starting point for project execution: `ab_ag.tsv
 
 Throughout the course of the exploratory data analysis, information about amino acid residue composition of different ICIs can be found under their respective name in the `data` directory (e.g. `ctla4`, `pd1`, `lag3`, etc.). This information is in form of .csv files for the epitope/paratope/interface.
 
-For the structural analysis, ... @Maria @Lara bitte ausfullen.
+For the structural analysis, each analyzed checkpoint target and corresponding PDB ID is associated with a PyMOL session file (`.pse`) that highlights the antibody, antigen, and either the paratope or epitope, depending on the analysis. These files can be opened directly in PyMOL to visualize the binding interface.
+
+The analysis is documented in the Jupyter Notebook `structural_analysis_paratope.ipynb`. Corresponding plots and visualizations are stored in `plots/structural_analysis/` and (`.csv`) in `data`. 
 
 
 <pre lang="markdown">
@@ -60,9 +62,8 @@ repo-root/
 mathjax: true
 -->
 
-Interface residues were defined as those residues within a 5 Å distance between the antibody and antigen in the complex structure. Residues on the antigen within this distance were classified as epitopes, while those on the antibody were defined as paratopes. Water molecules and non-standard residues were removed prior to the analysis.
+Interface residues were defined as those residues within a 5 Å distance between the antibody and antigen in the complex structure. Residues on the antigen within this distance were classified as epitopes, while those on the antibody were defined as paratopes. We calculated the area of these interfaces and quantified hydrogen bonds and salt bridges using geometric criteria. These structural features were saved in `.csv` format and served as input for downstream analysis. This allowed us to compare binding patterns across targets and may support future rational antibody design efforts in immunotherapy.
 
-@Maria @Lara add anything relevant and missing here for your part.
 
 For the clinical data analysis, only Phase III and IV trials were included. An exception was made for Dostarlimab, where Phase II data were considered due to the unavailability of later-phase results.
 
