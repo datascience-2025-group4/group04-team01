@@ -11,7 +11,7 @@
 ## Abstract
 Immune checkpoint inhibitors (ICI) have revolutionized cancer therapy by reactivating suppressed T-cell responses. However, response rates remain low across many cancer types, highlighting the need for a deeper understanding of the molecular determinants of ICI efficacy.
 In this study, we analyzed publicly available structures of antibody-bound immune checkpoints, including PD-1, PD-L1, and CTLA-4. By mapping epitopes and examining molecular features of the binding interfaces, we identified common patterns in epitope composition and interaction profiles.
-Using interface analysis and exploratory data techniques such as clustering and PCA, we observed recurring trends that may relate to binding efficacy. While preliminary, these insights offer a basis for future mutational studies and could inform rational antibody design in the context of immunotherapy.
+Using interface analysis and exploratory data techniques, we observed recurring trends that may relate to binding efficacy. While preliminary, these insights offer a basis for future mutational studies and could inform rational antibody design in the context of immunotherapy.
 
 ## Requirements
 
@@ -62,7 +62,7 @@ repo-root/
 mathjax: true
 -->
 
-Interface residues were defined as those residues within a 5 Å distance between the antibody and antigen in the complex structure. Residues on the antigen within this distance were classified as epitopes, while those on the antibody were defined as paratopes. We calculated the area of these interfaces and quantified hydrogen bonds and salt bridges using geometric criteria. These structural features were saved in `.csv` format and served as input for downstream analysis. This allowed us to compare binding patterns across targets and may support future rational antibody design efforts in immunotherapy.
+Interface residues were defined as those residues within 5 Å distance between the antibody and antigen in the complex structure. Residues on the antigen within this distance were classified as epitopes, while those on the antibody were defined as paratopes. We calculated the area of these interfaces and quantified hydrogen bonds and salt bridges using geometric criteria. These structural features were saved in `.csv` format and served as input for downstream analysis. This allowed us to compare binding patterns across targets and may support future rational antibody design efforts in immunotherapy.
 
 
 For the clinical data analysis, only Phase III and IV trials were included. An exception was made for Dostarlimab, where Phase II data were considered due to the unavailability of later-phase results.
@@ -84,6 +84,9 @@ Where $X$ is one of the outcome measures (OS, PFS, ORR), and $X_i$ is the value 
 
 Then, the **composite score** was computed as:
 
+<!--
+mathjax: true
+-->
 $$
 \text{Composite Score} = \left( \frac{\text{Norm}_{\text{OS}} + \text{Norm}_{\text{PFS}} + \text{Norm}_{\text{ORR}}}{3} \right) \cdot \log(\text{Participants} + 1)
 $$
