@@ -90,6 +90,6 @@ $$
 
 
 $$
-\text{Composite Score} = \left( \frac{1}{3} \sum_{X \in \{\text{Norm\_OS},\ \text{Norm\_PFS},\ \text{Norm\_ORR}\}} X \right) \times \log(\text{Participants} + 1)
+\text{Composite Score} = \left( \frac{1}{3} \sum_{X \in \{\text{Norm}_{\text{OS}},\ \text{Norm}_{\text{PFS}},\ \\text{Norm}_{\text{ORR}}\}} X \right) \times \log(\text{Participants} + 1)
 $$
 
