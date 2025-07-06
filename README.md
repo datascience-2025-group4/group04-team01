@@ -89,3 +89,7 @@ $$
 $$
 
 
+$$
+\text{Composite Score} = \left( \frac{\text{Norm\_OS} + \text{Norm\_PFS} + \text{Norm\_ORR}}{3} \right) \times \log(\text{Participants} + 1)
+$$
+
