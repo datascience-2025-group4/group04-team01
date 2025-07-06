@@ -87,6 +87,4 @@ Then, the **composite score** was computed as:
 <!--
 mathjax: true
 -->
-$$
-\text{Composite Score} = \left( \frac{\text{Norm}_{\text{OS}} + \text{Norm}_{\text{PFS}} + \text{Norm}_{\text{ORR}}}{3} \right) \cdot \log(\text{Participants} + 1)
-$$
+Composite Score = ((Norm_OS + Norm_PFS + Norm_ORR) / 3) · log(Participants + 1)
