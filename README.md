@@ -85,5 +85,5 @@ Where $X$ is one of the outcome measures (OS, PFS, ORR), and $X_i$ is the value 
 Then, the **composite score** was computed as:
 
 $$
-\mathrm{Composite\ Score} = \left( \frac{\mathrm{Norm}_{\mathrm{OS}} + \mathrm{Norm}_{\mathrm{PFS}} + \mathrm{Norm}_{\mathrm{ORR}}}{3} \right) \cdot \ln(\mathrm{Participants} + 1)
+\text{Norm}_X = \frac{X_i - \min(X)}{\max(X) - \min(X)}
 $$
