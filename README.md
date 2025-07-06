@@ -84,12 +84,4 @@ Where $X$ is one of the outcome measures (OS, PFS, ORR), and $X_i$ is the value 
 
 Then, the **composite score** was computed as:
 
-$$
-\text{Composite Score} = \frac{\text{Norm}_{\text{OS}}}{3} \times{\log{(\text{Participants + 1})}}
-$$
-
-
-$$
-\text{Composite Score} = \left( \frac{1}{3} \sum_{X \in \{\text{Norm}_{\text{OS}},\ \text{Norm}_{\text{PFS}},\ \\text{Norm}_{\text{ORR}}\}} X \right) \times \log(\text{Participants} + 1)
-$$
-
+![image](img/equation.png)
