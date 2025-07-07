@@ -35,7 +35,7 @@ Throughout the course of the exploratory data analysis, information about amino 
 
 For each analyzed checkpoint–antibody complex, a PyMOL session file (`.pse`) was generated. These files highlight the antibody, antigen, and either the paratope or epitope, depending on the analysis direction. Buried interface residues were identified based on buried surface area (BSA ≥ 0.1 Å²) and are visually marked in the structure. The sessions can be opened directly in PyMOL to explore the relevant interfacial contacts in detail.
 
-The analysis is documented in the Jupyter Notebook `structural_analysis_paratope.ipynb`. Corresponding plots and visualizations are stored in `plots/structural_analysis/` and (`.csv`) in `data`. 
+The analysis is documented in the Jupyter Notebook `Structural_Analysis.ipynb`. Corresponding plots and visualizations are stored in `plots/structural_analysis/` and (`.csv`) in `data`. 
 
 
 <pre lang="markdown">
