@@ -10,7 +10,7 @@
 
 ## Abstract
 Immune checkpoint inhibitors (ICI) have revolutionized cancer therapy by reactivating suppressed T-cell responses. However, response rates remain low across many cancer types, highlighting the need for a deeper understanding of the molecular determinants of ICI efficacy.
-In this study, we analyzed publicly available structures of antibody-bound immune checkpoints, including PD-1, PD-L1, CTLA-4, KIR and LAG3, TIM3. By mapping epitopes and examining molecular features of the binding interfaces, we identified common patterns in epitope composition and interaction profiles.
+In this study, we analyzed publicly available structures of antibody-bound immune checkpoints, including PD-1, PD-L1, CTLA-4, KIR, LAG3 and TIM3. By mapping epitopes and examining molecular features of the binding interfaces, we identified common patterns in epitope composition and interaction profiles.
 Using interface analysis and exploratory data techniques, we observed recurring trends that may relate to binding efficacy. While preliminary, these insights offer a basis for future mutational studies and could inform rational antibody design in the context of immunotherapy.
 
 ## Requirements
